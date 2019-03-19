@@ -47,6 +47,8 @@ class liczba
     for (int i=0;i<alp.length;i++)
     System.out.print(alp[i]);
     System.out.println("Witaj");
+    System.out.println("ballala");
+    System.out.println("Hejka");
 }
 
 }
