@@ -49,6 +49,7 @@ class liczba
     System.out.println("Witaj");
     System.out.println("ballala");
     System.out.println("Hejka");
+    System.out.println("dupa");
 }
 
 }
