@@ -46,6 +46,7 @@ class liczba
     String[] alp = {"a","b","c","d","e"};
     for (int i=0;i<alp.length;i++)
     System.out.print(alp[i]);
+    System.out.println("Witaj");
 }
 
 }
